@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelEditor.vs2010", "LevelEditor.vs2010.csproj", "{7DA4D304-37A9-4CD2-B30E-032B1C92A14E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA4D304-37A9-4CD2-B30E-032B1C92A14E}.Debug|x64.ActiveCfg = Debug|x64
+		{7DA4D304-37A9-4CD2-B30E-032B1C92A14E}.Debug|x64.Build.0 = Debug|x64
+		{7DA4D304-37A9-4CD2-B30E-032B1C92A14E}.Release|x64.ActiveCfg = Release|x64
+		{7DA4D304-37A9-4CD2-B30E-032B1C92A14E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE30541-30F8-4649-91F1-D1BD77DBE907}
+	EndGlobalSection
+EndGlobal
